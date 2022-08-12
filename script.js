@@ -43,6 +43,18 @@ const music_list = [
         name: "OK Not To Be OK",
         artist: 'Marshmello & Demi Lovato',
         music: 'music/OK_Not_To_Be_OK.mp3'
+    },
+    {
+        img: './images/rocket-science-vaultboy.jpg',
+        name: "Rocket Science",
+        artist: 'vaultboy',
+        music: 'music/rocket-science-vaultboy.mp3'
+    },
+    {
+        img: './images/Overwhelmed-Ryan-Mack-Remix.jfif',
+        name: "Overwhelmed (Ryan Mack Remix)",
+        artist: 'Ryan Mack',
+        music: 'music/Overwhelmed-Ryan-Mack-Remix.mp3'
     }
 ];
 
