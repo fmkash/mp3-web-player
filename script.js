@@ -55,6 +55,18 @@ const music_list = [
         name: "Overwhelmed (Ryan Mack Remix)",
         artist: 'Ryan Mack',
         music: 'music/Overwhelmed-Ryan-Mack-Remix.mp3'
+    },
+    {
+        img: './images/everything-sucks.jfif',
+        name: "everything sucks",
+        artist: 'vaultboy',
+        music: 'music/vaultboy-everything-sucks.mp3'
+    },
+    {
+        img: './images/a-o-k-tai-verdes.png',
+        name: "A-O-K",
+        artist: 'Tai Verdes',
+        music: 'music/A-O-K.mp3'
     }
 ];
 
@@ -70,7 +82,7 @@ function loadTrack(track_index) {
     track_art.style.backgroundImage = "url(" + music_list[track_index].img + ")";
     track_name.textContent = music_list[track_index].name;
     track_artist.textContent = music_list[track_index].artist;
-    now_playing.textContent = " Qawiieem Playlist " + (track_index + 1) + " / " + music_list.length;
+    now_playing.textContent = " spunkgargleweewee Playlist " + (track_index + 1) + " / " + music_list.length;
 
     updateTimer = setInterval(setUpdate, 1000);
 
