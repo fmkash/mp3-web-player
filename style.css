@@ -142,17 +142,6 @@ background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
   border-radius: 100%;
 }
 
-.rotate {
-  animation: rotation 9s infinite linear;
-}
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(359deg);
-  }
-}
 
 .fa-random {
   margin-right: 5px;
