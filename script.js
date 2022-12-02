@@ -73,7 +73,175 @@ const music_list = [
         name: "HASTA LA MUERTE",
         artist: 'Eslabon Armado & Ivan Cornejo',
         music: 'https://fmkash.github.io/mp3-web-player/Music/Eslabon%20Armado%2C%20Ivan%20Cornejo%20-%20HASTA%20LA%20MUERTE.mp3'
-    }
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+    {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
 ];
 
 loadTrack(track_index);
