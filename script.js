@@ -21,10 +21,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img: './images/topgun.jpg',
-        name: "I Ain’t Worried",
-        artist: 'OneRepublic',
-        music: 'music/IAintWorried.mp3'
+        img: 'https://i1.sndcdn.com/artworks-asVhKphbyIbzUcBH-MuSvBg-t500x500.jpg',
+        name: "24 Horas",
+        artist: 'Eslabon Armdado',
+        music: 'https://fmkash.github.io/mp3-web-player/Music/Eslabon%20Armado%20-%2024%20Horas.mp3'
     },
     {
         img: './images/teman.jpg',
