@@ -236,7 +236,13 @@ const music_list = [
         artist: '',
         music: ''
     },
-    {
+        {
+        img: '',
+        name: "",
+        artist: '',
+        music: ''
+    },
+            {
         img: '',
         name: "",
         artist: '',
