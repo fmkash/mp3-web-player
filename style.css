@@ -9,7 +9,7 @@ body {
   color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #2b2727;
-  background-image: linear-gradient(62deg, #2b2727 0%, #1e79ba 100%);
+  background-image: linear-gradient(62deg, #000000 0%, #1e79ba 100%);
   overflow: hidden;
 /* background-color: #FF9A8B;
 background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%); */
