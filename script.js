@@ -229,7 +229,7 @@ const music_list = [
         name: "El Dueño De Tu Amor",
         artist: 'DannyLux',
         music: 'Music/DannyLux%20-%20El%20Dueño%20De%20Tu%20Amor.mp3'
-    },
+    }
 ];
 
 loadTrack(track_index);
